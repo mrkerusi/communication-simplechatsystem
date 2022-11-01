@@ -1,0 +1,15 @@
+C:\Users\brytt\Desktop\Testing Folder\ChatServer\ChatServer\ChatLibrary\bin\Debug\ChatLibrary.dll
+C:\Users\brytt\Desktop\Testing Folder\ChatServer\ChatServer\ChatLibrary\bin\Debug\ChatLibrary.pdb
+C:\Users\brytt\Desktop\Testing Folder\ChatServer\ChatServer\ChatLibrary\obj\Debug\ChatLibrary.csprojResolveAssemblyReference.cache
+C:\Users\brytt\Desktop\Testing Folder\ChatServer\ChatServer\ChatLibrary\obj\Debug\ChatLibrary.dll
+C:\Users\brytt\Desktop\Testing Folder\ChatServer\ChatServer\ChatLibrary\obj\Debug\ChatLibrary.pdb
+C:\Users\brightson\Downloads\ChatServer-20170210T012740Z\ChatServer\ChatServer\ChatLibrary\bin\Debug\ChatLibrary.dll
+C:\Users\brightson\Downloads\ChatServer-20170210T012740Z\ChatServer\ChatServer\ChatLibrary\bin\Debug\ChatLibrary.pdb
+C:\Users\brightson\Downloads\ChatServer-20170210T012740Z\ChatServer\ChatServer\ChatLibrary\obj\Debug\ChatLibrary.csprojResolveAssemblyReference.cache
+C:\Users\brightson\Downloads\ChatServer-20170210T012740Z\ChatServer\ChatServer\ChatLibrary\obj\Debug\ChatLibrary.dll
+C:\Users\brightson\Downloads\ChatServer-20170210T012740Z\ChatServer\ChatServer\ChatLibrary\obj\Debug\ChatLibrary.pdb
+C:\Users\brightson\Desktop\Khairul Adam Major Project\ChatServer\ChatLibrary\bin\Debug\ChatLibrary.dll
+C:\Users\brightson\Desktop\Khairul Adam Major Project\ChatServer\ChatLibrary\bin\Debug\ChatLibrary.pdb
+C:\Users\brightson\Desktop\Khairul Adam Major Project\ChatServer\ChatLibrary\obj\Debug\ChatLibrary.csprojResolveAssemblyReference.cache
+C:\Users\brightson\Desktop\Khairul Adam Major Project\ChatServer\ChatLibrary\obj\Debug\ChatLibrary.dll
+C:\Users\brightson\Desktop\Khairul Adam Major Project\ChatServer\ChatLibrary\obj\Debug\ChatLibrary.pdb

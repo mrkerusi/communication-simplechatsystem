@@ -1,0 +1,46 @@
+C:\Users\brytt\Desktop\Testing Folder\ChatServer\ChatServer\Client\bin\Debug\Client.exe.config
+C:\Users\brytt\Desktop\Testing Folder\ChatServer\ChatServer\Client\bin\Debug\Client.exe
+C:\Users\brytt\Desktop\Testing Folder\ChatServer\ChatServer\Client\bin\Debug\Client.pdb
+C:\Users\brytt\Desktop\Testing Folder\ChatServer\ChatServer\Client\bin\Debug\ServerWcfService.dll
+C:\Users\brytt\Desktop\Testing Folder\ChatServer\ChatServer\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\brytt\Desktop\Testing Folder\ChatServer\ChatServer\Client\obj\x86\Debug\Client.frmClient.resources
+C:\Users\brytt\Desktop\Testing Folder\ChatServer\ChatServer\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\brytt\Desktop\Testing Folder\ChatServer\ChatServer\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\brytt\Desktop\Testing Folder\ChatServer\ChatServer\Client\obj\x86\Debug\Client.exe
+C:\Users\brytt\Desktop\Testing Folder\ChatServer\ChatServer\Client\obj\x86\Debug\Client.pdb
+C:\Users\brytt\Desktop\Testing Folder\ChatServer\ChatServer\Client\bin\Debug\ChatLibrary.dll
+C:\Users\brytt\Desktop\Testing Folder\ChatServer\ChatServer\Client\bin\Debug\ChatLibrary.pdb
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\ChatServer\ChatServer\Client\bin\Debug\Client.exe.config
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\ChatServer\ChatServer\Client\obj\x86\Debug\Client.exe
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\ChatServer\ChatServer\Client\obj\x86\Debug\Client.pdb
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\ChatServer\ChatServer\Client\bin\Debug\Client.exe
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\ChatServer\ChatServer\Client\bin\Debug\Client.pdb
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\ChatServer\ChatServer\Client\bin\Debug\ChatLibrary.dll
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\ChatServer\ChatServer\Client\bin\Debug\ServerWcfService.dll
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\ChatServer\ChatServer\Client\bin\Debug\ChatLibrary.pdb
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\ChatServer\ChatServer\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\ChatServer\ChatServer\Client\obj\x86\Debug\Client.frmClient.resources
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\ChatServer\ChatServer\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\ChatServer\ChatServer\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\brightson\Downloads\ChatServer-20170210T012740Z\ChatServer\ChatServer\Client\bin\Debug\Client.exe.config
+C:\Users\brightson\Downloads\ChatServer-20170210T012740Z\ChatServer\ChatServer\Client\obj\x86\Debug\Client.exe
+C:\Users\brightson\Downloads\ChatServer-20170210T012740Z\ChatServer\ChatServer\Client\obj\x86\Debug\Client.pdb
+C:\Users\brightson\Downloads\ChatServer-20170210T012740Z\ChatServer\ChatServer\Client\bin\Debug\Client.exe
+C:\Users\brightson\Downloads\ChatServer-20170210T012740Z\ChatServer\ChatServer\Client\bin\Debug\Client.pdb
+C:\Users\brightson\Downloads\ChatServer-20170210T012740Z\ChatServer\ChatServer\Client\bin\Debug\ChatLibrary.dll
+C:\Users\brightson\Downloads\ChatServer-20170210T012740Z\ChatServer\ChatServer\Client\bin\Debug\ServerWcfService.dll
+C:\Users\brightson\Downloads\ChatServer-20170210T012740Z\ChatServer\ChatServer\Client\bin\Debug\ChatLibrary.pdb
+C:\Users\brightson\Downloads\ChatServer-20170210T012740Z\ChatServer\ChatServer\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\brightson\Downloads\ChatServer-20170210T012740Z\ChatServer\ChatServer\Client\obj\x86\Debug\Client.frmClient.resources
+C:\Users\brightson\Downloads\ChatServer-20170210T012740Z\ChatServer\ChatServer\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\brightson\Downloads\ChatServer-20170210T012740Z\ChatServer\ChatServer\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\brightson\Desktop\Khairul Adam Major Project\ChatServer\Client\bin\Debug\Client.exe.config
+C:\Users\brightson\Desktop\Khairul Adam Major Project\ChatServer\Client\obj\x86\Debug\Client.exe
+C:\Users\brightson\Desktop\Khairul Adam Major Project\ChatServer\Client\obj\x86\Debug\Client.pdb
+C:\Users\brightson\Desktop\Khairul Adam Major Project\ChatServer\Client\bin\Debug\Client.exe
+C:\Users\brightson\Desktop\Khairul Adam Major Project\ChatServer\Client\bin\Debug\Client.pdb
+C:\Users\brightson\Desktop\Khairul Adam Major Project\ChatServer\Client\bin\Debug\ServerWcfService.dll
+C:\Users\brightson\Desktop\Khairul Adam Major Project\ChatServer\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\brightson\Desktop\Khairul Adam Major Project\ChatServer\Client\obj\x86\Debug\Client.frmClient.resources
+C:\Users\brightson\Desktop\Khairul Adam Major Project\ChatServer\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\brightson\Desktop\Khairul Adam Major Project\ChatServer\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
